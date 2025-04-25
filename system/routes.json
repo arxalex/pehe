@@ -1,0 +1,29 @@
+[
+  {
+    "routeName": "",
+    "routeType": "default",
+    "className": "",
+    "contants": [
+      {
+        "routeName": "api",
+        "routeType": "default",
+        "className": "",
+        "contants": [
+          {
+            "routeName": "controllers",
+            "routeType": "default",
+            "className": "",
+            "contants": [
+              {
+                "routeName": "user",
+                "routeType": "default",
+                "className": "controllers\\UsersController",
+                "contants": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
