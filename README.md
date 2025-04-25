@@ -19,3 +19,10 @@ How to use:
 GLHF
 
 No AI was involved in creation of this code
+
+Showcase:
+ 
+Spy game:
+https://apps.arxalex.com/spy
+https://github.com/arxalex/spy-game-api
+https://github.com/arxalex/spy-game-client
