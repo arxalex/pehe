@@ -1,6 +1,6 @@
 pehe - is a php host-ready framework that halps to create fast, simple and easy-to-maintain web applications.
 
-philosofy behind is to use maximum of php native features without any dependencies to other libraries, compose, compilations, etc.
+philosophy behind is to use maximum of php native features without any dependencies to other libraries, compose, compilations, etc.
 pehe already has ORM, router for SSR pages and REST API and JWT-cookie auth (will be added)
 
 pehe is good choice if you want to create: 
